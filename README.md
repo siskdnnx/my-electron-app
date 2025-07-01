@@ -1,3 +1,1 @@
-# my-electron-app
-electron-apps
-只会下载.exe即可
+进入右侧release，只需下载.exe即可
